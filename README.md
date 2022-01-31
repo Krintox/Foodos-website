@@ -1,1 +1,1 @@
-Link to the website[food-os.netlify.app]
+[Link to the Website](https://food-os.netlify.app/)
